@@ -566,7 +566,7 @@ nav .fa-solid{
 
     .main-text p{
         /* margin-top: 1px; */
-        font-size: 13px;
+        font-size: 11px;
         line-height: 1.5;
         font-style: normal;
     }
@@ -574,8 +574,9 @@ nav .fa-solid{
     .gif img {
         display: block;
         margin-top: 30px;
-        width: 400px;
+        width: 325px;
         position: relative;
+        padding: 5px 5px;
     }
 
     .about-col-1 img{
@@ -593,7 +594,7 @@ nav .fa-solid{
     }
 
     .first-letter {
-        font-size: 25px;
+        font-size: 30px;
     }
 
     nav .fa-solid{
@@ -605,7 +606,7 @@ nav .fa-solid{
         background: #86354f;
         position: fixed;
         top: 0;
-        right: -200px;
+        right: -300px;
         width: 200px;
         height: 100vh;
         padding-top: 50px;
